@@ -1,1 +1,2 @@
 Testing file
+Updated the test file on master branch
